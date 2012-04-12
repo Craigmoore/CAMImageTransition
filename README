@@ -1,0 +1,9 @@
+
+2 Sets of parameters
+
+1) An array of images that represent the final states of the transitions
+2) An array of images that represent the transition animations
+
+Animation works by setting the background-image position offset.x to the relevent position
+
+By Craig Moore (same licence as JQuery)
